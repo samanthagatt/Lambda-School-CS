@@ -1,3 +1,6 @@
 [submodule "Intro to Python OOP/Intro-Python-I"]
 	path = Intro to Python OOP/Intro-Python-I
 	url = https://github.com/samanthagatt/Intro-Python-I.git
+[submodule "Intro to Python OOP/Intro-Python-II"]
+	path = Intro to Python OOP/Intro-Python-II
+	url = https://github.com/samanthagatt/Intro-Python-II.git
