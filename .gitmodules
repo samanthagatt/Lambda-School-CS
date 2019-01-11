@@ -4,3 +4,6 @@
 [submodule "Intro to Python OOP/Intro-Python-II"]
 	path = Intro to Python OOP/Intro-Python-II
 	url = https://github.com/samanthagatt/Intro-Python-II.git
+[submodule "Intro to Python OOP/Sprint-Challenge--Intro-Python"]
+	path = Intro to Python OOP/Sprint-Challenge--Intro-Python
+	url = https://github.com/samanthagatt/Sprint-Challenge--Intro-Python.git
