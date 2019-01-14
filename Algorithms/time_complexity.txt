@@ -1,0 +1,24 @@
+Big O Notation
+
+for x in range(300):
+    pass
+
+n       steps
+__      ___
+
+100     200
+200     400
+300     600
+
+O(n) = linear (2n but drop the coefficient)
+
+
+Constant time / order 1 time
+O(1) = constant (takes same amount of steps no matter how big the data set)
+
+x = 32423
+
+while x > 1:
+    x //= 2 # forces integer division
+
+O(log n)
