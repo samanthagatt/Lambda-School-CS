@@ -10,3 +10,6 @@
 [submodule "Algorithms/Algorithms"]
 	path = Algorithms/Algorithms
 	url = https://github.com/samanthagatt/Algorithms.git
+[submodule "Algorithms/Sorting"]
+	path = Algorithms/Sorting
+	url = https://github.com/samanthagatt/Sorting.git
