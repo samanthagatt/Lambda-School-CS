@@ -13,3 +13,6 @@
 [submodule "Algorithms/Sorting"]
 	path = Algorithms/Sorting
 	url = https://github.com/samanthagatt/Sorting.git
+[submodule "Algorithms/Sprint-Challenge--Algorithms"]
+	path = Algorithms/Sprint-Challenge--Algorithms
+	url = https://github.com/samanthagatt/Sprint-Challenge--Algorithms.git
