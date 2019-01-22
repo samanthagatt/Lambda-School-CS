@@ -16,3 +16,6 @@
 [submodule "Algorithms/Sprint-Challenge--Algorithms"]
 	path = Algorithms/Sprint-Challenge--Algorithms
 	url = https://github.com/samanthagatt/Sprint-Challenge--Algorithms.git
+[submodule "Data Structures/Data-Structures"]
+	path = Data Structures/Data-Structures
+	url = https://github.com/samanthagatt/Data-Structures.git
