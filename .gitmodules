@@ -19,6 +19,3 @@
 [submodule "Data Structures/Data-Structures"]
 	path = Data Structures/Data-Structures
 	url = https://github.com/samanthagatt/Data-Structures.git
-[submodule "Data Structures/Sprint-Challenge--Data-Structures-Python"]
-	path = Data Structures/Sprint-Challenge--Data-Structures-Python
-	url = https://github.com/samanthagatt/Sprint-Challenge--Data-Structures-Python.git
