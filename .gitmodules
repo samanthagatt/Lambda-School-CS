@@ -22,3 +22,6 @@
 [submodule "Data Structures/Sprint-Challenge--Data-Structures-Python"]
 	path = Data Structures/Sprint-Challenge--Data-Structures-Python
 	url = https://github.com/samanthagatt/Sprint-Challenge--Data-Structures-Python.git
+[submodule "Graphs/Graphs"]
+	path = Graphs/Graphs
+	url = https://github.com/samanthagatt/Graphs.git
