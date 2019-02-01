@@ -25,3 +25,6 @@
 [submodule "Graphs/Graphs"]
 	path = Graphs/Graphs
 	url = https://github.com/samanthagatt/Graphs.git
+[submodule "Graphs/Sprint-Challenge--Graphs"]
+	path = Graphs/Sprint-Challenge--Graphs
+	url = https://github.com/samanthagatt/Sprint-Challenge--Graphs.git
