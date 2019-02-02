@@ -28,3 +28,6 @@
 [submodule "Graphs/Sprint-Challenge--Graphs"]
 	path = Graphs/Sprint-Challenge--Graphs
 	url = https://github.com/samanthagatt/Sprint-Challenge--Graphs.git
+[submodule "Lambda-Treasure-Hunt"]
+	path = Lambda-Treasure-Hunt
+	url = https://github.com/samanthagatt/Lambda-Treasure-Hunt.git
