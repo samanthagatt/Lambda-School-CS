@@ -31,3 +31,6 @@
 [submodule "Lambda-Treasure-Hunt"]
 	path = Lambda-Treasure-Hunt
 	url = https://github.com/samanthagatt/Lambda-Treasure-Hunt.git
+[submodule "Intro to C/Intro-to-C"]
+	path = Intro to C/Intro-to-C
+	url = https://github.com/samanthagatt/Intro-to-C.git
