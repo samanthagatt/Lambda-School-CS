@@ -34,3 +34,6 @@
 [submodule "Intro to C/Intro-to-C"]
 	path = Intro to C/Intro-to-C
 	url = https://github.com/samanthagatt/Intro-to-C.git
+[submodule "Intro to C/Processes"]
+	path = Intro to C/Processes
+	url = https://github.com/samanthagatt/Processes.git
