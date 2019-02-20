@@ -37,3 +37,6 @@
 [submodule "Intro to C/Processes"]
 	path = Intro to C/Processes
 	url = https://github.com/samanthagatt/Processes.git
+[submodule "Intro to C/Sprint-Challenge--Intro-C-Processes"]
+	path = Intro to C/Sprint-Challenge--Intro-C-Processes
+	url = https://github.com/samanthagatt/Sprint-Challenge--Intro-C-Processes.git
