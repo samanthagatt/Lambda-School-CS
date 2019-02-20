@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct Stack {
+typedef struct Stack
+{
     /// Total number of elements the stack can hold
     unsigned int capacity;
     /// Pointer to data
@@ -58,28 +59,28 @@ void free_stack(Stack *stack)
     free(stack);
 }
 
-int main(void)
-{
-    Stack *stack = create_stack(3);
+// int main(void)
+// {
+//     Stack *stack = create_stack(3);
 
-    printf("Stack is full: %d\n", is_full(stack)); // 0
-    printf("Stack is empty: %d\n", is_empty(stack)); // 1
+//     printf("Stack is full: %d\n", is_full(stack)); // 0
+//     printf("Stack is empty: %d\n", is_empty(stack)); // 1
 
-    push(stack, 10);
-    printf("Stack is empty: %d\n", is_empty(stack)); // 0
-    push(stack, 20);
-    push(stack, 30);
+//     push(stack, 10);
+//     printf("Stack is empty: %d\n", is_empty(stack)); // 0
+//     push(stack, 20);
+//     push(stack, 30);
 
-    printf("Stack is full: %d\n", is_full(stack)); // 1
+//     printf("Stack is full: %d\n", is_full(stack)); // 1
 
-    push(stack, 40);
+//     push(stack, 40);
 
-    printf("Stack is full: %d\n", is_full(stack)); // 0
+//     printf("Stack is full: %d\n", is_full(stack)); // 0
 
-    printf("%d popped from stack\n", pop(stack)); // 40
-    printf("%d popped from stack\n", pop(stack)); // 30
-    printf("%d popped from stack\n", pop(stack)); // 20
-    printf("%d popped from stack\n", pop(stack)); // 10
+//     printf("%d popped from stack\n", pop(stack)); // 40
+//     printf("%d popped from stack\n", pop(stack)); // 30
+//     printf("%d popped from stack\n", pop(stack)); // 20
+//     printf("%d popped from stack\n", pop(stack)); // 10
 
-    printf("Stack is empty: %d\n", is_empty(stack)); // 1
-}
+//     printf("Stack is empty: %d\n", is_empty(stack)); // 1
+// }
