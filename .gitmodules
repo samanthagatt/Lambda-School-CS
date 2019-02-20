@@ -40,3 +40,6 @@
 [submodule "Intro to C/Sprint-Challenge--Intro-C-Processes"]
 	path = Intro to C/Sprint-Challenge--Intro-C-Processes
 	url = https://github.com/samanthagatt/Sprint-Challenge--Intro-C-Processes.git
+[submodule "Theory and Hash Tables/Arrays"]
+	path = Theory and Hash Tables/Arrays
+	url = https://github.com/samanthagatt/Arrays.git
