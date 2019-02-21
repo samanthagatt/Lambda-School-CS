@@ -43,3 +43,6 @@
 [submodule "Theory and Hash Tables/Arrays"]
 	path = Theory and Hash Tables/Arrays
 	url = https://github.com/samanthagatt/Arrays.git
+[submodule "Theory and Hash Tables/Hash-Tables"]
+	path = Theory and Hash Tables/Hash-Tables
+	url = https://github.com/samanthagatt/Hash-Tables.git
