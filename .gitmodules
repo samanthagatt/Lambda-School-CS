@@ -46,3 +46,6 @@
 [submodule "Theory and Hash Tables/Hash-Tables"]
 	path = Theory and Hash Tables/Hash-Tables
 	url = https://github.com/samanthagatt/Hash-Tables.git
+[submodule "Theory and Hash Tables/Sprint-Challenge--Hash-Theory"]
+	path = Theory and Hash Tables/Sprint-Challenge--Hash-Theory
+	url = https://github.com/samanthagatt/Sprint-Challenge--Hash-Theory.git
