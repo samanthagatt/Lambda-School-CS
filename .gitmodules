@@ -52,3 +52,6 @@
 [submodule "Computer Architecture/Computer-Architecture"]
 	path = Computer Architecture/Computer-Architecture
 	url = https://github.com/samanthagatt/Computer-Architecture.git
+[submodule "Computer Architecture/Sprint-Challenge--Computer-Architecture"]
+	path = Computer Architecture/Sprint-Challenge--Computer-Architecture
+	url = https://github.com/samanthagatt/Sprint-Challenge--Computer-Architecture.git
