@@ -4,5 +4,8 @@
         <page name='Whiteboard Pairing'/>
         <page name='Counting Votes'/>
         <page name='Queue with Two Stacks'/>
+        <page name='Set of Stacks'/>
+        <page name='RingBuffer'/>
+        <page name='Temperature Tracker'/>
     </pages>
 </playground>
