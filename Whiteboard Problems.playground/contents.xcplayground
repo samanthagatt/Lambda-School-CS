@@ -7,5 +7,6 @@
         <page name='Set of Stacks'/>
         <page name='RingBuffer'/>
         <page name='Temperature Tracker'/>
+        <page name='SortStack'/>
     </pages>
 </playground>
