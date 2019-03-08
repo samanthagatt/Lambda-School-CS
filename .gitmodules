@@ -55,3 +55,6 @@
 [submodule "Computer Architecture/Sprint-Challenge--Computer-Architecture"]
 	path = Computer Architecture/Sprint-Challenge--Computer-Architecture
 	url = https://github.com/samanthagatt/Sprint-Challenge--Computer-Architecture.git
+[submodule "Web Servers/C-Web-Server"]
+	path = Web Servers/C-Web-Server
+	url = https://github.com/samanthagatt/C-Web-Server.git
